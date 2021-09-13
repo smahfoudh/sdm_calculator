@@ -3,7 +3,7 @@
 
 - Currently, we are using our phones to calculate different things
 - Our wanted system would be a web based application which will make it easy to calculate different things for people surfing the web
--Current processes (model)
+- Current processes (model)
 users opens the app, enters numbers and starts computing.
 - Required processes (model)
 user enters number→number is stored→operator is selected→next number entered
